@@ -1,0 +1,9 @@
+email: epearson001@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+fullname: 'Eric Pearson'
+title: Owner
+state: enabled
+hashed_password: $2y$10$.n.CXJylIdNTaYKY01Cbr.riGc3raXphq9z5or6ZHwTUaY2TMi/dW
